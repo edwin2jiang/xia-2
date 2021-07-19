@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xia-2)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # 项目简介
 
 > 项目名：starry-sky-market
