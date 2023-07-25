@@ -1,2 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xia-2&show_icons=true&theme=tokyonight)](https://appletest.cn/news/front_page/index_article.php?index=0)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xia-2&show_icons=true&theme=tokyonight)](https://github.com/xia-2)
