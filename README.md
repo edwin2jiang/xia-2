@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <a href="http://edwin-jiang.com/"> Edwin Jiang</a>, currently studying for a master's degree at Guangzhou University.</br>You can find me on <a href="http://edwin-jiang.com/">Blog Website</a>,  or on <a href="https://www.zhihu.com/people/xia_2">Zhi Hu</a>.</p>
+<p>Welcome to my page! </br> I'm <a href="https://blog.appletest.cn"> Edwin Jiang</a>, currently studying for a master's degree at Guangzhou University.</br>You can find me on <a href="https://blog.appletest.cn">Blog Website</a>,  or on <a href="https://www.zhihu.com/people/xia_2">Zhi Hu</a>.</p>
 
 <h2>🐍 Past Contribution | Greedy Snake Game</h2>
 
