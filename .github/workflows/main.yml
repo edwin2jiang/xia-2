@@ -1,9 +1,9 @@
-name: generate animation
+name: genrate animation
 
 on:
-  # run automatically every 24 hours
+  # 每天上午6点自动执行一次
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 6 * * *'
 
   # allows to manually run the job at any time
   workflow_dispatch:
